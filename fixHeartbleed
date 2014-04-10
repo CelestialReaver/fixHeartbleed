@@ -22,6 +22,7 @@ echo -e "\E[5;37;41m<3 HEARTBLEED FIX <3\033[0m"
 echo
 echo -e "\E[5;37;44mInstalling required tools to build openssl-1.0.1g\033[0m"
 yum -y groupinstall "Development tools" > /dev/null 2>&1
+yum -y install wget > /dev/null 2>&1
 
 ## Download patched version of OpenSSL
 echo
