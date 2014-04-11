@@ -1,4 +1,4 @@
-fixHeartbleed
+Info
 =============
 
 Shell script I created to easily fix the Heartbleed vulnerability by installing openssl-1.0.1g.
