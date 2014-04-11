@@ -3,6 +3,12 @@ fixHeartbleed
 
 Shell script I created to easily fix the Heartbleed vulnerability by installing openssl-1.0.1g.
 
+Target
+======
+
+Red Hat 6.x and CentOS 6.x systems. It may work on 5.x for both RHEL and CentOS but has not been tested/validated.
+
+
 Usage
 ======
 
