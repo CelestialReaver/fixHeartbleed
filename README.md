@@ -12,7 +12,7 @@ Red Hat 6.x and CentOS 6.x systems. It may work on 5.x for both RHEL and CentOS 
 Usage
 ======
 
-Place this script on the server you wish to install openssl-1.0.1g on and execute.
+Place this script on the server you wish to install openssl-1.0.1g on and execute. Sit back and relax.
 
 ./fixHeartbleed.sh
 
