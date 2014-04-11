@@ -8,4 +8,9 @@ Usage
 
 Place this script on the server you wish to install openssl-1.0.1g on and execute.
 
-./fixHeartbleed
+./fixHeartbleed.sh
+
+Contact
+=======
+
+Feel free to contact me regarding any questions, errors, issues, or enhancements. Better yet, feel free to fork this repo and enhance it and contribute. I don't know everything, as much as I may think I do.
